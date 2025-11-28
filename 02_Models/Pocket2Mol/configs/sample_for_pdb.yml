@@ -1,0 +1,15 @@
+
+model:
+    checkpoint: /home/nudge/Pocket2Mol/logs/train_2025_11_15__15_00_29/checkpoints/450000.pt
+
+sample:
+  seed: 2020
+  num_samples: 10000
+  beam_size: 500
+  max_steps: 50
+  threshold:
+    focal_threshold: 0.5
+    pos_threshold: 0.25
+    element_threshold: 0.3
+    hasatom_threshold: 0.6
+    bond_threshold: 0.4

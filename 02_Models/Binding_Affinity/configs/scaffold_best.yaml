@@ -1,0 +1,13 @@
+data:
+  cache_root: data/processed/binding
+  pdbbind_index: data/raw/pdbbind_refined/index/INDEX_refined_data.2016
+model:
+  dropout: 0.0
+  hidden: 128
+  layers: 6
+train:
+  batch_size: 8
+  epochs: 100
+  lr: 1.2021326659294067e-05
+  scheduler_type: plateau
+  weight_decay: 1.0e-05

@@ -1,0 +1,37 @@
+# 1. 시스템 및 개발 툴 임시 파일
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 2. Python 필수 제외 항목 (컴파일 캐시)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 3. Jupyter Notebook 체크포인트 (지저분함 방지)
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# 4. 대용량 모델 가중치 파일 (GitHub 100MB 제한 방지)
+# checkpoints 폴더 안의 모든 내용 무시
+checkpoints/
+# 확장자로 한 번 더 방지
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.h5
+
+# 5. 데이터셋 (Data 폴더)
+# 원본 데이터는 보통 올리지 않지만, sample_inputs가 있다면 예외 처리가 필요할 수 있음.
+# 일단 대용량 파일은 막아둠.
+data/*.csv
+data/*.pdb
+data/*.sdf
+data/sample_inputs/  # sample_inputs 폴더는 업로드 허용 (필요시 주석 해제)
+
+# 6. 기타 압축 파일
+*.zip
+*.tar.gz

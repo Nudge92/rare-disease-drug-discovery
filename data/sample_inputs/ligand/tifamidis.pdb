@@ -1,0 +1,140 @@
+LINK        CLC  3MI C 128                CLD  3MICA 128     1555   1555  0.15
+LINK        CLD  3MI C 128                CLC  3MICA 128     1555   1555  0.15
+LINK        CAR  3MI C 128                CAR  3MICA 128     1555   1555  0.02
+LINK        CAQ  3MI C 128                CAQ  3MICA 128     1555   1555  0.09
+LINK        CAH  3MI C 128                CAI  3MICA 128     1555   1555  0.09
+LINK        CAI  3MI C 128                CAH  3MICA 128     1555   1555  0.09
+LINK        CAN  3MI C 128                CAO  3MICA 128     1555   1555  0.13
+LINK        CAO  3MI C 128                CAN  3MICA 128     1555   1555  0.13
+LINK        CAG  3MI C 128                CAG  3MICA 128     1555   1555  0.15
+LINK        NAK  3MI C 128                OAL  3MICA 128     1555   1555  0.24
+LINK        OAL  3MI C 128                NAK  3MICA 128     1555   1555  0.24
+LINK        CAS  3MI C 128                CAT  3MICA 128     1555   1555  0.40
+LINK        CAT  3MI C 128                CAS  3MICA 128     1555   1555  0.40
+LINK        CAF  3MI C 128                CAJ  3MICA 128     1555   1555  0.64
+LINK        CAJ  3MI C 128                CAF  3MICA 128     1555   1555  0.64
+LINK        CAE  3MI C 128                CAP  3MICA 128     1555   1555  0.77
+LINK        CAP  3MI C 128                CAE  3MICA 128     1555   1555  0.77
+LINK        CAE  3MI C 128                CAE  3MICA 128     1555   1555  0.81
+CRYST1   58.354   79.04865.35300000000001  90.00  90.00  90.00 P 1           1
+HETATM    1  OAAA3MI C 128       0.610  -1.036   0.433  0.25 29.41           O
+HETATM    2  OAAB3MI C 128      -0.610   1.036   0.433  0.25 29.41           O
+HETATM    3  OABA3MI C 128       2.253  -2.074  -0.634  0.25 29.14           O
+HETATM    4  OABB3MI C 128      -2.253   2.074  -0.634  0.25 29.14           O
+HETATM    5  CAEA3MI C 128      -0.063   0.402  -1.821  0.25 20.40           C
+HETATM    6  CAEB3MI C 128       0.063  -0.402  -1.821  0.25 20.40           C
+HETATM    7  CAFA3MI C 128      -0.538   1.035  -2.958  0.25 21.51           C
+HETATM    8  CAFB3MI C 128       0.538  -1.035  -2.958  0.25 21.51           C
+HETATM    9  CAGA3MI C 128      -0.070  -0.025 -10.408  0.25 14.46           C
+HETATM   10  CAGB3MI C 128       0.070   0.025 -10.408  0.25 14.46           C
+HETATM   11  CAHA3MI C 128      -0.397   1.170  -8.364  0.25 13.80           C
+HETATM   12  CAHB3MI C 128       0.397  -1.170  -8.364  0.25 13.80           C
+HETATM   13  CAIA3MI C 128       0.305  -1.173  -8.351  0.25 15.11           C
+HETATM   14  CAIB3MI C 128      -0.305   1.173  -8.351  0.25 15.11           C
+HETATM   15  CAJA3MI C 128       1.098  -1.275  -3.155  0.25 17.44           C
+HETATM   16  CAJB3MI C 128      -1.098   1.275  -3.155  0.25 17.44           C
+HETATM   17  NAKA3MI C 128      -0.538   0.883  -5.433  0.25 16.88           N
+HETATM   18  NAKB3MI C 128       0.538  -0.883  -5.433  0.25 16.88           N
+HETATM   19  OALA3MI C 128       0.690  -0.951  -5.604  0.25 15.23           O
+HETATM   20  OALB3MI C 128      -0.690   0.951  -5.604  0.25 15.23           O
+HETATM   21  CAMA3MI C 128       1.251  -1.333  -0.604  0.25 25.14           C
+HETATM   22  CAMB3MI C 128      -1.251   1.333  -0.604  0.25 25.14           C
+HETATM   23  CANA3MI C 128      -0.415   1.130  -9.730  0.25 13.80           C
+HETATM   24  CANB3MI C 128       0.415  -1.130  -9.730  0.25 13.80           C
+HETATM   25  CAOA3MI C 128       0.288  -1.165  -9.717  0.25 14.38           C
+HETATM   26  CAOB3MI C 128      -0.288   1.165  -9.717  0.25 14.38           C
+HETATM   27  CAPA3MI C 128       0.764  -0.708  -1.913  0.25 19.56           C
+HETATM   28  CAPB3MI C 128      -0.764   0.708  -1.913  0.25 19.56           C
+HETATM   29  CAQA3MI C 128      -0.046   0.003  -7.695  0.25 15.11           C
+HETATM   30  CAQB3MI C 128       0.046  -0.003  -7.695  0.25 15.11           C
+HETATM   31  CARA3MI C 128      -0.003   0.011  -6.293  0.25 15.68           C
+HETATM   32  CARB3MI C 128       0.003  -0.011  -6.293  0.25 15.68           C
+HETATM   33  CASA3MI C 128      -0.227   0.489  -4.190  0.25 17.44           C
+HETATM   34  CASB3MI C 128       0.227  -0.489  -4.190  0.25 17.44           C
+HETATM   35  CATA3MI C 128       0.581  -0.643  -4.279  0.25 16.35           C
+HETATM   36  CATB3MI C 128      -0.581   0.643  -4.279  0.25 16.35           C
+HETATM   37 CLC A3MI C 128      -0.825   2.539 -10.617  0.25 14.30          Cl
+HETATM   38 CLC B3MI C 128       0.825  -2.539 -10.617  0.25 14.30          Cl
+HETATM   39 CLD A3MI C 128       0.692  -2.593 -10.576  0.25 14.25          Cl
+HETATM   40 CLD B3MI C 128      -0.692   2.593 -10.576  0.25 14.25          Cl
+HETATM   41  OAAA3MICA 128      -0.610   1.036   0.433  0.25 29.41           O
+HETATM   42  OAAB3MICA 128       0.610  -1.036   0.433  0.25 29.41           O
+HETATM   43  OABA3MICA 128      -2.253   2.074  -0.634  0.25 29.14           O
+HETATM   44  OABB3MICA 128       2.253  -2.074  -0.634  0.25 29.14           O
+HETATM   45  CAEA3MICA 128       0.063  -0.402  -1.821  0.25 20.40           C
+HETATM   46  CAEB3MICA 128      -0.063   0.402  -1.821  0.25 20.40           C
+HETATM   47  CAFA3MICA 128       0.538  -1.035  -2.958  0.25 21.51           C
+HETATM   48  CAFB3MICA 128      -0.538   1.035  -2.958  0.25 21.51           C
+HETATM   49  CAGA3MICA 128       0.070   0.025 -10.408  0.25 14.46           C
+HETATM   50  CAGB3MICA 128      -0.070  -0.025 -10.408  0.25 14.46           C
+HETATM   51  CAHA3MICA 128       0.397  -1.170  -8.364  0.25 13.80           C
+HETATM   52  CAHB3MICA 128      -0.397   1.170  -8.364  0.25 13.80           C
+HETATM   53  CAIA3MICA 128      -0.305   1.173  -8.351  0.25 15.11           C
+HETATM   54  CAIB3MICA 128       0.305  -1.173  -8.351  0.25 15.11           C
+HETATM   55  CAJA3MICA 128      -1.098   1.275  -3.155  0.25 17.44           C
+HETATM   56  CAJB3MICA 128       1.098  -1.275  -3.155  0.25 17.44           C
+HETATM   57  NAKA3MICA 128       0.538  -0.883  -5.433  0.25 16.88           N
+HETATM   58  NAKB3MICA 128      -0.538   0.883  -5.433  0.25 16.88           N
+HETATM   59  OALA3MICA 128      -0.690   0.951  -5.604  0.25 15.23           O
+HETATM   60  OALB3MICA 128       0.690  -0.951  -5.604  0.25 15.23           O
+HETATM   61  CAMA3MICA 128      -1.251   1.333  -0.604  0.25 25.14           C
+HETATM   62  CAMB3MICA 128       1.251  -1.333  -0.604  0.25 25.14           C
+HETATM   63  CANA3MICA 128       0.415  -1.130  -9.730  0.25 13.80           C
+HETATM   64  CANB3MICA 128      -0.415   1.130  -9.730  0.25 13.80           C
+HETATM   65  CAOA3MICA 128      -0.288   1.165  -9.717  0.25 14.38           C
+HETATM   66  CAOB3MICA 128       0.288  -1.165  -9.717  0.25 14.38           C
+HETATM   67  CAPA3MICA 128      -0.764   0.708  -1.913  0.25 19.56           C
+HETATM   68  CAPB3MICA 128       0.764  -0.708  -1.913  0.25 19.56           C
+HETATM   69  CAQA3MICA 128       0.046  -0.003  -7.695  0.25 15.11           C
+HETATM   70  CAQB3MICA 128      -0.046   0.003  -7.695  0.25 15.11           C
+HETATM   71  CARA3MICA 128       0.003  -0.011  -6.293  0.25 15.68           C
+HETATM   72  CARB3MICA 128      -0.003   0.011  -6.293  0.25 15.68           C
+HETATM   73  CASA3MICA 128       0.227  -0.489  -4.190  0.25 17.44           C
+HETATM   74  CASB3MICA 128      -0.227   0.489  -4.190  0.25 17.44           C
+HETATM   75  CATA3MICA 128      -0.581   0.643  -4.279  0.25 16.35           C
+HETATM   76  CATB3MICA 128       0.581  -0.643  -4.279  0.25 16.35           C
+HETATM   77 CLC A3MICA 128       0.825  -2.539 -10.617  0.25 14.30          Cl
+HETATM   78 CLC B3MICA 128      -0.825   2.539 -10.617  0.25 14.30          Cl
+HETATM   79 CLD A3MICA 128      -0.692   2.593 -10.576  0.25 14.25          Cl
+HETATM   80 CLD B3MICA 128       0.692  -2.593 -10.576  0.25 14.25          Cl
+CONECT    2   22
+CONECT    4   22
+CONECT    6    8   28   68   46
+CONECT    8    6   34   56
+CONECT   10   24   26   50
+CONECT   12   24   30   54
+CONECT   14   26   30   52
+CONECT   16   36   28   48
+CONECT   18   32   34   60
+CONECT   20   32   36   58
+CONECT   22    2    4   28
+CONECT   24   10   12   38   66
+CONECT   26   10   14   40   64
+CONECT   28    6   16   22   46
+CONECT   30   12   14   32   70
+CONECT   32   18   20   30   72
+CONECT   34    8   18   36   76
+CONECT   36   16   20   34   74
+CONECT   38   24   80
+CONECT   40   26   78
+CONECT   42   62
+CONECT   44   62
+CONECT   46   48   68   28    6
+CONECT   48   46   74   16
+CONECT   50   64   66   10
+CONECT   52   64   70   14
+CONECT   54   66   70   12
+CONECT   56   76   68    8
+CONECT   58   72   74   20
+CONECT   60   72   76   18
+CONECT   62   42   44   68
+CONECT   64   50   52   78   26
+CONECT   66   50   54   80   24
+CONECT   68   46   56   62    6
+CONECT   70   52   54   72   30
+CONECT   72   58   60   70   32
+CONECT   74   48   58   76   36
+CONECT   76   56   60   74   34
+CONECT   78   64   40
+CONECT   80   66   38
+END

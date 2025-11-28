@@ -1,0 +1,15 @@
+# configs/egnn_config.yaml
+
+data:
+  cache_root: "data/processed/binding" # 데이터 위치 확인
+
+model:
+  hidden_dim: 128   # 모델의 복잡도
+  num_layers: 4     # 모델의 깊이
+  dropout: 0.1      # 과적합 방지
+
+train:
+  batch_size: 32    # 한 번에 학습할 데이터 수 (GPU 메모리에 따라 조절)
+  lr: 0.0005        # 학습률 (Learning Rate)
+  epochs: 100       # 전체 데이터셋을 몇 번 반복 학습할지
+  weight_decay: 1e-5

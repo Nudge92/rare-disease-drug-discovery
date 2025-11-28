@@ -1,0 +1,10 @@
+data:
+  root: "data/tdc_admet"
+  tasks:
+    - "herg"
+    - "cyp3a4"
+    - "aqsoldb"
+  task_types:
+    herg: "cls"
+    cyp3a4: "cls"
+    aqsoldb: "reg"
